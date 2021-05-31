@@ -1,4 +1,5 @@
-# SI_lab2_191198
+# Втора лабораториска вежба по Софтверско инженерство
+# Леонида Тасевска, 191198
 # Control Flow Graph
 ![image](https://user-images.githubusercontent.com/82376758/120243253-68c39400-c267-11eb-9d3c-5d16a05fae98.png)
 
